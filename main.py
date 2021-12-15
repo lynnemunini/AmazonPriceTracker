@@ -7,7 +7,7 @@ import imghdr
 from email.message import EmailMessage
 from email.mime.text import MIMEText
 
-target_price = 60.00
+target_price = 80.00
 my_email = os.environ.get("MY_EMAIL")
 password = os.environ.get("PASSWORD")
 URL = "https://www.amazon.com/Fitness-Tracker-Activity-Waterproof-Pedometer/dp/B09DG248ZY/ref=sr_1_4?" \
